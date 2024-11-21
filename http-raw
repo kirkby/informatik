@@ -1,0 +1,16 @@
+GET /ip HTTP/3
+Host: ipinfo.io
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Alt-Used: ipinfo.io
+Connection: keep-alive
+Cookie: _gcl_au=1.1.156731971.1732132990; _ga_3MZZVKJJB0=GS1.1.1732132990.1.0.1732132990.60.0.413269564; _ga=GA1.1.881205772.1732132990; _ga_RWP85XL4SC=GS1.1.1732132990.1.0.1732132990.60.0.653461246; csrf_token=66fb3115-1f96-4c94-9bc3-5ec9a2dd4ced; _clck=1s5q0is%7C2%7Cfr1%7C0%7C1785; _clsk=32bksg%7C1732132992000%7C1%7C0%7Ch.clarity.ms%2Fcollect; __hstc=97467072.0915dd95f920311582af4c801898951a.1732132993538.1732132993538.1732132993538.1; hubspotutk=0915dd95f920311582af4c801898951a; __hssrc=1; __hssc=97467072.1.1732132993538
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
