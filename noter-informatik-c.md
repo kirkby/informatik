@@ -114,7 +114,7 @@ idealistisk &harr; materialistisk
 ## Brugertest
 ## Resumé 
 
-# KAPITEL 6: INTERAKTIONSDESIGN
+# KAPITEL 6: INNOVATION
 | Begreber                      |   |
 |-------------------------------|---|
 | | | 
@@ -135,7 +135,17 @@ idealistisk &harr; materialistisk
 
 ## It-systemers netværk og arkitektur
 ## Internettet
+Trelagsarkitektur: præsentation, logik, data
+Client-server-arkitektur
+Cookies: tekniske (nødvendige), statistiske , personaliserede, markedsføringscookies.
 ## Sikkerhed på internettet
+CIA-modellen.
+Authentication vs. authorization (identificering vs. godkendelse)
+Remarketing
+GDPR
+
+
+
 ## Kryptering
 ## Adfærd på nettet
 ## Resumé
