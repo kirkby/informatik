@@ -1,15 +1,20 @@
 # Forløb 2: Programmering og it-udvikling
 ## 2.1 Grundlæggende programmeringsbegreber
 Variabler; datatyper, tekst, strenge, heltal, sandt/falsk, kommatal; andre datatyper.  
-Løkker (loops); for-loop; while-loop;
+Løkker (loops); for-loop;
+``` javascript
+for (i = 0; i <= n; i ++;) {
+    // do something
+}
 ```
-for i = 0; i <= n; i ++;
+Løkker (loops); while-loop;
 
+``` python
 while x == true:
     do something;
 ```
-Betingelser; if-betingelser; if-else-betingelser;
-```
+Betingelser; if-betingelser; if-else-betingelser; if-elseif-else-betingelser;
+``` python
 if status == "ok":
     print('Alt er godt.')
 
@@ -26,6 +31,12 @@ else
     print('Noget er galt.')
 ```
 
+### Referencer
+[Erhvervsinformatik til EUD/EUX](https://erhvervsinformatik.systime.dk/)  
+- [Sekvenser og variabler](https://erhvervsinformatik.systime.dk/?id=166)
+- [Forgreninger](https://erhvervsinformatik.systime.dk/?id=167)
+- [Funktioner og kommentarer](https://erhvervsinformatik.systime.dk/?id=168)
+- [Løkker](https://erhvervsinformatik.systime.dk/?id=169)
 
 ## 2.2 Blokprogrammering
         - Øvelse i Applap: valutaomregner

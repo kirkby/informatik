@@ -16,7 +16,7 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
 ## Forløb 2: Programmering og it-udvikling
     2.1 Grundlæggende programmeringsbegreber
         - Variable og datatyper
-        - Kontrolstrukturer
+        - Løkker
         - Betingelser
     2.2 Blokprogrammering
         - Applap
