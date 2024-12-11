@@ -42,12 +42,14 @@ else
         - Øvelse i Applap: valutaomregner
 
 ## 2.3 Interaktionsdesign
-        - Designprincipper: Norman, Gestalt-lovene, Usability
+        - Designprincipper: Norman, Gestalt-lovene, Usability, First Things First, KISS
         - Kommunikation: Laswell, AIDA
         - Målgruppe: Minarva, Maslow
+
 ## 2.4 Udvikling
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
+        Eksempel på analyse: https://uxmag.com/articles/a-ux-ui-case-study-on-spotify
         - Testmetoder
         - Innovation
 
