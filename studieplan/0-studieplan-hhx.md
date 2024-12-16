@@ -14,7 +14,7 @@ Omtrent 10 lektioner.
 Lektionsplan: [Introduktion til Informatik](1-informatik.md)
 
 ## Forløb 2: Systemudvikling
-    2.1 Grundlæggende programmeringsbegreber
+    2.1 Programmering
         - Variable og datatyper
         - Gentagelser (løkker, loops)
         - Betingelser (forgreninger)
@@ -22,9 +22,9 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
     2.2 Blokprogrammering
         - Applap
     2.3 Interaktionsdesign
-        - Designprincipper: Norman, Gestalt-lovene, Usability, First-Things-First, KISS
-        - Kommunikation: Laswell, AIDA
-        - Målgruppe: Minarva, Maslow
+        - Design: Norman, Gestalt-lovene, Usability, First-Things-First, KISS
+        - Målgruppe: Maslow, persona 
+        - Kommunikation (ikke pensum)  Laswell, AIDA, Minerva, Conzoom etc
     2.4 Udvikling
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
@@ -36,10 +36,10 @@ Lektionsplan: [Systemudvikling](2-systemudvikling.md)
 
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
     3.1 GDPR
-    3.2 Cookies, typer af
-    3.3 Mimetikken
-    3.4 Kryptering
-    3.5 Chromebook-sagen fra Helsingør
+    3.2 Cookies
+    3.3 Netværk, sikkerhed og kryptering
+    3.4 Mimetikken
+    3.5 Chromebook-sagen fra Helsingør?
 
 Omtrent X lektioner.  
 Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
@@ -68,3 +68,11 @@ Lektionsplan: [Pizza-app](5-pizza-app.md)
 
 Omtrent X lektioner.  
 Lektionsplan: [Opsamling](6-opsamling.md)
+
+## Lærebøger
+**Informatik**, systime,  https://informatik.systime.dk  (primær)  
+**UX Design**, systime, https://uxdesign.systime.dk  
+**Erhvervsinformatik til EUD/EUX**, systime,  https://erhvervsinformatik.systime.dk  
+
+## Andre materialer
+PFJ, https://pfj.slotshaven.it/forloeb-2/
