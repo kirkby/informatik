@@ -29,7 +29,7 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
         - Testmetoder
-        - Innovation
+        
 
 Omtrent X lektioner.  
 Lektionsplan: [Systemudvikling](2-systemudvikling.md)
@@ -48,6 +48,7 @@ Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
     4.1 Databaser
     4.2 Big Data
     4.3 TODO LLM, prompting
+    4.4 Innovation
 
 Omtrent X lektioner.  
 Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)

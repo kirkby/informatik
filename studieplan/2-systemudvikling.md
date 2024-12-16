@@ -140,7 +140,7 @@ Lærebog Ux Design: https://uxdesign.systime.dk/?id=140
     First Things First 
     KISS
 
-Overdriv ikke brugen af disse regler - man kan fx ikke designe udelukkende ved brug af KISS og lidt Gestalt.
+Overdriv ikke brugen af disse regler - man kan fx ikke designe udelukkende ved brug af "KISS og lidt gestalt".
 
 #### Referencer
 Hvad man ikke skal gøre: https://userinyerface.com
@@ -207,16 +207,12 @@ Informatik: "Målgrupper" &rarr; https://informatik.systime.dk/?id=982 (systime)
 
 [Tilbage til oversigt](0-studieplan-hhx.md)
 
-## 2.4 Systemudvikling
+## 2.4 Iterativ udvikling, prototyping
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
-        - Use-cases, brugerejser, klikrejser
+        - Use-cases, brugerrejser
         - Testmetoder
-        - Innovation
 
 
-### Innovation
-_Faglige mål_:  
-> Eleverne skal kunne redegøre for graden (inkrementel/radikal) og typen (paradigme/position/proces/produkt) af innovation.
 
 ### Referencer
