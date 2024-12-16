@@ -1,0 +1,10 @@
+.h1_color { 
+    color: blue;
+} 
+.h2_color2 { 
+    color: greenyellow;
+}
+.clicked-class {
+    background-color: lightblue; /* Change the background color */
+    color: white; /* Change the text color */
+  }
