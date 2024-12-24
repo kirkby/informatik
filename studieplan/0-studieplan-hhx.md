@@ -8,9 +8,10 @@ Studieplan for Informatik C for 2024-25.
     1.3 Enheder og Det binære talsystem  
     1.4 Hvordan fungerer internettet?  
     1.5 Web, html og http  
-    1.6 Min første webside!  
+    1.6 Min første webside!
+    1.7 VS Code
 
-Omtrent 10 lektioner.  
+Omtrent 8 lektioner.  
 Lektionsplan: [Introduktion til Informatik](1-informatik.md)
 
 ## Forløb 2: Systemudvikling
@@ -29,9 +30,9 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
         - Testmetoder
-        
+    2.5 Wordpress      
 
-Omtrent X lektioner.  
+Omtrent 16 lektioner.  
 Lektionsplan: [Systemudvikling](2-systemudvikling.md)
 
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
@@ -41,7 +42,7 @@ Lektionsplan: [Systemudvikling](2-systemudvikling.md)
     3.4 Mimetikken
     3.5 Chromebook-sagen fra Helsingør?
 
-Omtrent X lektioner.  
+Omtrent 10 lektioner.  
 Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
 
 ## Forløb 4: Data, Big Data og kunstig intelligens
@@ -50,7 +51,7 @@ Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
     4.3 TODO LLM, prompting
     4.4 Innovation
 
-Omtrent X lektioner.  
+Omtrent 10 lektioner.  
 Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)
 
 ## Forløb 5: Appudvikling: Pizza-app
@@ -58,7 +59,7 @@ Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)
     5.2 Udvikling af pizzaapp i AppLab
     5.3 Evaluering og test af pizzaapp i AppLab
 
-Omtrent X lektioner.  
+Omtrent 16 lektioner.  
 Lektionsplan: [Pizza-app](5-pizza-app.md)
 
 ## Forløb 6: Opsamling og eksamensforberedelse
@@ -67,7 +68,7 @@ Lektionsplan: [Pizza-app](5-pizza-app.md)
     6.3 Eksamensforberedelse
     6.4 Øvelser, quizzes og test
 
-Omtrent X lektioner.  
+Omtrent 8 lektioner.  
 Lektionsplan: [Opsamling](6-opsamling.md)
 
 ## Lærebøger

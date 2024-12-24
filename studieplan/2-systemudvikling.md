@@ -213,6 +213,8 @@ Informatik: "Målgrupper" &rarr; https://informatik.systime.dk/?id=982 (systime)
         - Use-cases, brugerrejser
         - Testmetoder
 
-
+## 2.5 Wordpress
+        - opsætning
+        - plugins, indlæg og sider
 
 ### Referencer

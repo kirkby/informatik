@@ -22,4 +22,9 @@ Web = html, css, js.
 ## 1.6 Min første webside! 
 Konstruktion af første hjemmeside.
 
+## 1.7 VS Code
+Installation af VS Code. 
+Øvelse med html.zip
+
+
 [Tilbage til oversigt](0-studieplan-hhx.md)
