@@ -49,7 +49,7 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
     2.3 Interaktionsdesign
         - Design: Norman, Gestalt-lovene, Usability, First-Things-First, KISS
         - Målgruppe: Maslow, persona 
-        - Kommunikation (ikke pensum)  Laswell, AIDA, Minerva, Conzoom etc
+        - Kommunikation (ikke pensum): Laswell, AIDA, Minerva, Conzoom etc
     2.4 Udvikling
         - Den iterative udviklingsmodel
         - Prototyper: low-fi og hi-fi, papirskitser
@@ -75,7 +75,7 @@ Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
 ## Forløb 4: Data, Big Data og kunstig intelligens
     4.1 Databaser
     4.2 Big Data
-    4.3 TODO LLM, prompting
+    4.3 TODO AI, prompting
     4.4 Innovation
 
 Omtrent 10 lektioner.  
