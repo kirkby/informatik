@@ -1,6 +1,6 @@
-# Forløb 2: Systemudvikling
+# Forløb 2: App-udvikling
 
-_Faglige mål for systemudvikling_  
+_Faglige mål for appudvikling_  
 > Konstruktion af it-system som løsning til en problemstilling.  
 Eleverne skal kunne  
 ̶  løse et mindre problem ved at beskrive problemet, samt designe, realisere og afprøve et it-system gennem
@@ -205,16 +205,27 @@ Pers forløb: https://pfj.slotshaven.it/3-webteknologier/3-systemudvikling/
 
 Informatik: "Målgrupper" &rarr; https://informatik.systime.dk/?id=982 (systime)
 
-[Tilbage til oversigt](0-studieplan-hhx.md)
 
 ## 2.4 Iterativ udvikling, prototyping
-        - Den iterative udviklingsmodel
-        - Prototyper: low-fi og hi-fi, papirskitser
-        - Use-cases, brugerrejser
-        - Testmetoder
+
+### Den iterative udviklingsmodel
+### Prototyper: low-fi og hi-fi, papirskitser
+### Use-cases, brugerrejser
+### Testmetoder
 
 ## 2.5 Wordpress
-        - opsætning
-        - plugins, indlæg og sider
+### Hvad er et CMS-system?
+
+### Installation 
+### Opsætning: indlæg, sider, plugins, menuer, medier
+### Min første webside!
 
 ### Referencer
+[Wordpress-installation](https://informatik.slotshaven.it/wordpress/wordpress-installation/)
+[Min Wordpress](https://x24-mkm.slotshaven.it/wordpress/)
+
+
+
+
+
+[Tilbage til oversigt](0-studieplan-hhx.md)
