@@ -63,11 +63,11 @@ Lektionsplan: [App-udvikling](2-app-udvikling.md)
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
     3.1 GDPR
     3.2 Cookies
-    3.3 Authentication vs. authorization    
+    3.3 Authentication vs. authorization
     3.4 Sikkerhed på internettet
     3.5 Beskyttelse af digital identitet
-    3.5 Netværk, sikkerhed og kryptering
-    3.6 Kryptering som middel til datasikkerhed
+    3.6 Kryptering
+    3.7 Netværksikkerhed
 
 Omtrent 10 lektioner.  
 Lektionsplan: [Digital dannelse](3-digital-dannelse.md)

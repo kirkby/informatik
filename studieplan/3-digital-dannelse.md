@@ -6,13 +6,53 @@ _Faglige mål for It-sikkerhed, netværk og arkitektur_
 ## 3.1 GDPR
 **Introduktion til emnet**
 
-GDPR, eller General Data Protection Regulation, er en europæisk lovgivning, der blev indført i maj 2018 for at beskytte borgernes personlige data. GDPR har tre centrale begreber, som er vigtige at kende:
+GDPR, eller General Data Protection Regulation, på dansk _databeskyttelsesforordningen_,  er en europæisk lovgivning, der blev indført i maj 2018 for at beskytte borgernes personlige data. GDPR har tre centrale begreber, som er vigtige at kende:
 
 - **Personoplysninger**: Dette er alle oplysninger, der kan identificere en person, fx navn, adresse, telefonnummer og IP-adresse.
 - **Samtykke**: Brugernes samtykke er en nødvendig forudsætning for at indsamle og behandle deres personoplysninger. Samtykket skal være frivilligt, specifikt og informeret.
 - **Databehandleraftale**: En aftale mellem en dataansvarlig og en databehandler, der sikrer, at personoplysninger behandles i overensstemmelse med GDPR.
 
+En personoplysning er enhver form for information, der kan henføres til en bestemt person, også selv om personen kun kan identificeres, hvis oplysningen kombineres med andre oplysninger.
+Personoplysninger kan igen inddeles i tre kategorier:
+- almindelige personoplysninger  
+- særlige kategorier af personoplysninger (følsomme personoplysninger)
+- oplysninger om straffedomme og lovovertrædelser og lignende
+
+| Almindelige personoplysninger|
+|---------------------------------------|
+| Navn, alder og adresse|
+| Telefonnummer, e-mail|
+| Portrætbilleder|
+| Familieforhold|
+| Skat og gæld|
+| Job og udddannelse|
+
+| Følsomme personoplysninger|
+|--------------------------------------|
+| Race og etnisk oprindelse|
+| Politisk overbevisning|
+| Religiøs eller filosofisk overbevisning  |
+| Fagforeningsmæssige tilhørsforhold|
+| Genetiske data|
+| Biometriske data med henblik på entydig identifikation|
+| Helbredsoplysninger|
+| Seksuelle forhold eller seksuel orientering|
+| personnummeroplysninger|
+
 GDPR gør det også lettere for brugere at få indsigt i, hvilke data der indsamles, hvordan de bruges, og at få dem slettet, hvis det ønskes. En væsentlig forskel mellem europæisk og amerikansk lovgivning er, at GDPR lægger vægt på brugerens rettigheder og privatliv, mens amerikanske love ofte prioriterer virksomheders frihed til at anvende data.
+
+GDPR definerer også 7 generelle principper som er regulerer virksomhedernes brug af persondata
+| **Nr.** | **Princip**  | **Beskrivelse** |
+|---------|----------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| 1       | Lovlighed, rimelighed og gennemsigtighed | Data skal behandles lovligt, retfærdigt og gennemsigtigt (samtykke!)|
+| 2       | Formålsbegrænsning              | Data må kun bruges til specifikke, eksplicitte og legitime formål (tydeligt formål!)|
+| 3       | Dataminimering                  | Kun nødvendige oplysninger til det specifikke formål må indsamles (så lidt som muligt)|
+| 4       | Rigtighed                       | Data skal være korrekte og ajourførte|
+| 5       | Opbevaringsbegrænsning          | Data må kun opbevares så længe, det er nødvendigt for formålet (data skal slettes igen!)|
+| 6       | Integritet og fortrolighed      | Data skal beskyttes mod uautoriseret adgang, tab eller skade (sikkerhed!)|
+| 7       | Ansvarlighed | Den dataansvarlige skal sikre overholdelse af GDPR-principperne og kunne dokumentere dette (dit ansvar!)|
+
+
 
 **Artikler om emnet**
 
@@ -85,6 +125,18 @@ Det er vigtigt at forstå disse forskellige typer af cookies, da de påvirker di
 
 Gentag med Facebook eller Instagram.
 
+## Øvelse **
+**Øvelse**
+-  Browse rundt på greenline og kig på nogle produkter
+- gå ind på tv2 og check annoncerne der
+- 
+- Slet alle dine cookies
+- Genopfrisk siden (tryk F5 eller Cmd+R eller tryk på cirkelpilen)
+- Hvad skete der? 
+- Log ind igen
+- Check dine cookies igen - hvor mange er der?
+
+Gentag med Facebook eller Instagram.
 
 **Artikler om emnet**
 
@@ -108,31 +160,31 @@ Gentag med Facebook eller Instagram.
 
 Arbejd i grupper og besvar følgende spørgsmål:
 
-1. Hvad er en cookie, og hvad bruges den til?
-2. Nævn de fire hovedtyper af cookies og deres formål.
-3. Hvilken type cookie er nødvendig for, at en hjemmeside kan huske varer i en indkøbskurv?
-4. Hvordan kan statistikcookies forbedre en hjemmesides brugervenlighed?
-5. Hvad er forskellen mellem personaliserede cookies og markedsføringscookies?
-6. Hvordan kan cookies påvirke dit privatliv online?
-7. Hvad siger GDPR om brugen af cookies?
-8. Hvordan kan du som bruger begrænse eller slette cookies i din browser?
-9. Hvorfor er det vigtigt for hjemmesider at indhente samtykke til brug af cookies?
-10. Diskutér fordele og ulemper ved brugen af cookies på internettet.
+    1. Hvad er en cookie, og hvad bruges den til?
+    2. Nævn de fire hovedtyper af cookies og deres formål.
+    3. Hvilken type cookie er nødvendig for, at en hjemmeside kan huske varer i en indkøbskurv?
+    4. Hvordan kan statistikcookies forbedre en hjemmesides brugervenlighed?
+    5. Hvad er forskellen mellem personaliserede cookies og markedsføringscookies?
+    6. Hvordan kan cookies påvirke dit privatliv online?
+    7. Hvad siger GDPR om brugen af cookies?
+    8. Hvordan kan du som bruger begrænse eller slette cookies i din browser?
+    9. Hvorfor er det vigtigt for hjemmesider at indhente samtykke til brug af cookies?
+    10. Diskutér fordele og ulemper ved brugen af cookies på internettet.
 
 **Tre takeaways**
 
-- Cookies er essentielle for mange hjemmesiders funktionalitet, men de kan også bruges til at spore din online adfærd.
-- Der findes forskellige typer af cookies med forskellige formål; det er vigtigt at kende forskellen.
-- Du har ret til at vide, hvilke cookies der bruges, og til at give eller nægte samtykke i henhold til GDPR.
+    - Cookies er essentielle for mange hjemmesiders funktionalitet, men de kan også bruges til at spore din online adfærd.
+    - Der findes forskellige typer af cookies med forskellige formål; det er vigtigt at kende forskellen.
+    - Du har ret til at vide, hvilke cookies der bruges, og til at give eller nægte samtykke i henhold til GDPR.
 
 ## 3.3 Authentication vs. authorization
 **Introduktion til emnet**
 
 Authentication og authorization er to centrale begreber inden for IT-sikkerhed, der ofte forveksles. 
 
-- **Authentication** (autentifikation) handler om at verificere, hvem en bruger er. For eksempel kan det ske via en adgangskode, fingeraftryk eller ansigtsgenkendelse.
-- **Authorization** (autorisation) handler derimod om at give en bruger rettigheder til at udføre bestemte handlinger eller få adgang til bestemte ressourcer, efter at deres identitet er verificeret.
-- **Multi-Factor Authentication (MFA)** er en metode, hvor flere faktorer, fx en kode sendt til telefonen og en adgangskode, kombineres for at øge sikkerheden.
+    - **Authentication** (autentifikation) handler om at verificere, hvem en bruger er. For eksempel kan det ske via en adgangskode, fingeraftryk eller ansigtsgenkendelse.
+    - **Authorization** (autorisation) handler derimod om at give en bruger rettigheder til at udføre bestemte handlinger eller få adgang til bestemte ressourcer, efter at deres identitet er verificeret.
+    - **Multi-Factor Authentication (MFA)** er en metode, hvor flere faktorer, fx en kode sendt til telefonen og en adgangskode, kombineres for at øge sikkerheden.
 
 Et eksempel, der illustrerer forskellen: Når du logger ind på en computer (authentication), kan du måske ikke installere programmer, fordi du ikke har administratorrettigheder (authorization).
 
@@ -159,50 +211,46 @@ Et eksempel, der illustrerer forskellen: Når du logger ind på en computer (aut
 
 Onlinesvindel er en af de største udfordringer inden for cybersikkerhed. Mange typer svindel sigter mod at narre brugere til at afsløre personlige oplysninger eller give adgang til følsomme systemer. Nogle af de mest almindelige former for onlinesvindel er:
 
-- **Phishing**: Når svindlere sender falske e-mails eller beskeder, der ligner legitime, for at lokke brugerne til at dele personlige oplysninger som adgangskoder eller kreditkortnumre.
-- **Spoofing**: En teknik, hvor svindlere forfalsker en afsenderadresse, så det ser ud som om beskeden kommer fra en pålidelig kilde.
-- **Man-in-the-middle (MITM)**: Et angreb, hvor svindlere opfanger og potentielt ændrer kommunikationen mellem to parter uden deres viden.
-- **Cross-site scripting (XSS)**: En metode, hvor svindlere indsætter ondsindet kode i en hjemmeside for at angribe brugere, der besøger siden.
-- **Ransomware**: Skadelig software, der låser brugerens filer og kræver en løsesum for at genoprette adgangen.
+    - **Phishing**: Når svindlere sender falske e-mails eller beskeder, der ligner legitime, for at lokke brugerne til at dele personlige oplysninger som adgangskoder eller kreditkortnumre.
+    - **Spoofing**: En teknik, hvor svindlere forfalsker en afsenderadresse, så det ser ud som om beskeden kommer fra en pålidelig kilde.
+    - **Man-in-the-middle (MITM)**: Et angreb, hvor svindlere opfanger og potentielt ændrer kommunikationen mellem to parter uden deres viden.
+    - **Cross-site scripting (XSS)**: En metode, hvor svindlere indsætter ondsindet kode i en hjemmeside for at angribe brugere, der besøger siden.
+    - **Ransomware**: Skadelig software, der låser brugerens filer og kræver en løsesum for at genoprette adgangen.
 
 Disse typer onlinesvindel udgør en alvorlig trussel mod både privatpersoner og virksomheder. Det er vigtigt at lære at genkende faresignalerne og beskytte sig selv.
 
 **Artikler om emnet**
-
+- [Tænk: 8 råd til online sikkerhed](https://taenk.dk/forbrugerliv/elektronik-og-digitale-tjenester/8-raad-til-bedre-online-sikkerhed)
 - [Hvordan fungerer phishing? - Forbrugerrådet Tænk](https://taenk.dk/phishing)
 - [Spoofing forklaret - CSO Online](https://www.csoonline.com/article/3325579/what-is-spoofing.html)
 - [Guide til ransomware - Europol](https://www.europol.europa.eu/ransomware)
 
 **Videoer om emnet**
-
 - [What is Phishing?](https://www.youtube.com/watch?v=U2Fu0Nx0W3o)
 - [Understanding MITM Attacks](https://www.youtube.com/watch?v=KDbuVIVp_6U)
 - [Ransomware Explained](https://www.youtube.com/watch?v=l9Q66g6C4Ew)
 
 **Infografiske illustrationer**
-
 - [Infografik: Sådan fungerer phishing-angreb](https://example.com/phishing-infografik)
 - [Infografik: Spoofing og MITM-svindel](https://example.com/spoofing-infografik)
 - [Infografik: Ransomware-truslen](https://example.com/ransomware-infografik)
 
 **Opgave med 10 spørgsmål**
-
-1. Hvad er phishing, og hvordan kan man genkende det?
-2. Hvordan adskiller spoofing sig fra phishing?
-3. Forklar, hvad et MITM-angreb er.
-4. Hvad er XSS, og hvordan påvirker det brugerne?
-5. Hvordan fungerer ransomware, og hvad er de typiske konsekvenser?
-6. Nævn to metoder til at beskytte sig mod phishing.
-7. Hvordan kan virksomheder beskytte sig mod MITM-angreb?
-8. Hvad kan man gøre for at minimere risikoen for ransomware-angreb?
-9. Hvad er forskellen på en social engineering-teknik og en teknisk angrebsmetode?
-10. Diskutér, hvordan man bedst kan oplyse folk om onlinesvindel.
+    1. Hvad er phishing, og hvordan kan man genkende det?
+    2. Hvordan adskiller spoofing sig fra phishing?
+    3. Forklar, hvad et MITM-angreb er.
+    4. Hvad er XSS, og hvordan påvirker det brugerne?
+    5. Hvordan fungerer ransomware, og hvad er de typiske konsekvenser?
+    6. Nævn to metoder til at beskytte sig mod phishing.
+    7. Hvordan kan virksomheder beskytte sig mod MITM-angreb?
+    8. Hvad kan man gøre for at minimere risikoen for ransomware-angreb?
+    9. Hvad er forskellen på en social engineering-teknik og en teknisk angrebsmetode?
+    10. Diskutér, hvordan man bedst kan oplyse folk om onlinesvindel.
 
 **Tre takeaways**
-
-- Onlinesvindel som phishing, spoofing og ransomware er stigende og kræver konstant opmærksomhed.
-- At genkende faresignaler og tage proaktive skridt kan beskytte mod mange typer angreb.
-- Uddannelse og opmærksomhed er nøglen til at mindske risikoen for onlinesvindel.
+    - Onlinesvindel som phishing, spoofing og ransomware er stigende og kræver konstant opmærksomhed.
+    - At genkende faresignaler og tage proaktive skridt kan beskytte mod mange typer angreb.
+    - Uddannelse og opmærksomhed er nøglen til at mindske risikoen for onlinesvindel.
 
 ## 3.5 Beskyttelse af digital identitet
 
@@ -210,48 +258,44 @@ Disse typer onlinesvindel udgør en alvorlig trussel mod både privatpersoner og
 
 At beskytte sig mod onlinesvindel kræver en kombination af teknologiske værktøjer og bevidst adfærd. Nogle effektive metoder inkluderer:
 
-- **To-faktor autentifikation (2FA)**: En ekstra sikkerhedsfunktion, der kræver både noget, du ved (fx en adgangskode) og noget, du har (fx en kode sendt til din telefon).
-- **Sikre og unikke adgangskoder**: Adgangskoder bør være lange, komplekse og forskellige for hver tjeneste.
-- **Brug af password managers**: Disse værktøjer kan oprette og opbevare stærke adgangskoder sikkert.
-- **Undgå genbrug af adgangskoder**: Hvis en adgangskode bliver kompromitteret, kan den ikke bruges til at få adgang til andre tjenester.
-- **Vær kritisk over for mistænkelige links**: Klik aldrig på ukendte eller mistænkelige links i e-mails eller beskeder.
+    - **To-faktor autentifikation (2FA)**: En ekstra sikkerhedsfunktion, der kræver både noget, du ved (fx en adgangskode) og noget, du har (fx en kode sendt til din telefon).
+    - **Sikre og unikke adgangskoder**: Adgangskoder bør være lange, komplekse og forskellige for hver tjeneste.
+    - **Brug af password managers**: Disse værktøjer kan oprette og opbevare stærke adgangskoder sikkert.
+    - **Undgå genbrug af adgangskoder**: Hvis en adgangskode bliver kompromitteret, kan den ikke bruges til at få adgang til andre tjenester.
+    - **Vær kritisk over for mistænkelige links**: Klik aldrig på ukendte eller mistænkelige links i e-mails eller beskeder.
 
 **Artikler om emnet**
 
-- [Hvordan fungerer 2FA? - Authy](https://authy.com/what-is-2fa/)
-- [Password security - CSO Online](https://www.csoonline.com/article/3254177/password-security.html)
-- [Best practices for online safety - Norton](https://us.norton.com/internetsecurity)
+    - [Find: Video: Hvordan fungerer 2FA? - Authy]()
+    - [Hvad er en rainbow table?]
 
 **Videoer om emnet**
 
-- [How does 2FA work?](https://www.youtube.com/watch?v=JjZATgPmluM)
-- [Why you need a password manager](https://www.youtube.com/watch?v=Kv6kz5P7lg8)
-- [Online Safety Tips](https://www.youtube.com/watch?v=bqNfaG5OD2U)
+    - [Find video: How does 2FA work?]()
 
 **Infografiske illustrationer**
 
-- [Infografik: Sådan beskytter du dig online](https://example.com/online-safety-infografik)
-- [Infografik: Password managers forklaret](https://example.com/password-manager-infografik)
-- [Infografik: 2FA i praksis](https://example.com/2fa-infografik)
+    - [Infografik: Sådan beskytter du dig online](https://example.com/online-safety-infografik)
+    - [Infografik: Password managers forklaret](https://example.com/password-manager-infografik)
+    - [Infografik: 2FA i praksis](https://example.com/2fa-infografik)
 
 **Opgave med 10 spørgsmål**
 
-1. Hvad er to-faktor autentifikation, og hvorfor er det vigtigt?
-2. Hvad karakteriserer en stærk adgangskode?
-3. Hvordan kan en password manager hjælpe med at beskytte dine online konti?
-4. Hvorfor bør man undgå at genbruge adgangskoder?
-5. Hvad skal du gøre, hvis du modtager en mistænkelig e-mail?
-6. Hvordan fungerer 2FA i praksis?
-7. Hvilke fordele har en password manager sammenlignet med at huske adgangskoder selv?
-8. Hvilke trin kan du tage for at sikre, at dine adgangskoder ikke bliver kompromitteret?
-9. Hvad bør du gøre, hvis du har mistanke om, at din adgangskode er blevet kompromitteret?
-10. Diskutér, hvordan uddannelse om cybersikkerhed kan mindske risikoen for onlinesvindel.
+    1. Hvad er to-faktor autentifikation, og hvorfor er det vigtigt?
+    2. Hvad karakteriserer en stærk adgangskode?
+    3. Hvordan kan en password manager hjælpe med at beskytte dine online konti?
+    4. Hvorfor bør man undgå at genbruge adgangskoder?
+    5. Hvad skal du gøre, hvis du modtager en mistænkelig e-mail?
+    6. Hvordan fungerer 2FA i praksis?
+    7. Hvilke fordele har en password manager sammenlignet med at huske adgangskoder selv?
+    8. Hvilke trin kan du tage for at sikre, at dine adgangskoder ikke bliver kompromitteret?
+    9. Hvad bør du gøre, hvis du har mistanke om, at din adgangskode er blevet kompromitteret?
+    10. Diskutér, hvordan uddannelse om cybersikkerhed kan mindske risikoen for onlinesvindel.
 
 **Tre takeaways**
-
-- Brug stærke og unikke adgangskoder, og undgå genbrug.
-- Aktiver 2FA på alle tjenester, der tilbyder det.
-- Brug en password manager til at administrere dine adgangskoder sikkert.
+    - Brug stærke og unikke adgangskoder, og undgå genbrug.
+    - Aktiver 2FA på alle tjenester, der tilbyder det.
+    - Brug en password manager til at administrere dine adgangskoder sikkert.
 
 ## 3.6 Kryptering som middel til datasikkerhed
 **Introduktion til emnet**
@@ -267,12 +311,10 @@ Kryptering spiller en central rolle i at beskytte data mod uautoriseret adgang o
 **Artikler om emnet**
 
 - [What is HTTPS and why is it important? - Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-https/)
-- [End-to-end encryption explained - WhatsApp](https://www.whatsapp.com/security/)
-- [VPN security basics - NordVPN](https://nordvpn.com/what-is-vpn/)
 
 **Videoer om emnet**
-- [How does HTTPS work?](https://www.youtube.com/watch?v=hExRDVZHhig)
-- [What is end-to-end encryption?](https://www.youtube.com/watch?v=ADSBXlR-ExY)
+- [PowerCert: How does HTTPS work?](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [BBC: What is end-to-end encryption?](https://youtu.be/c2OkOckSD20)
 - [VPNs explained](https://www.youtube.com/watch?v=moPrl_xu9Tk)
 
 **Infografik**
@@ -300,9 +342,29 @@ Tilføj.
 
 
 ## 3.7 Netværksikkerhed
+**CIA-modellen**
+- Confidentiality
+- Integrity
+- Availability
+
+
+
+### Referencer:
+
+Kryptoguide:
+https://www.cryptoguide.dk/v-rkt-jer
+
+Forløb fra GraspIT.
+https://graspit.dk/sporing-af-brugere-paa-nettet/
+
+
 
 ## Generelle referencer  
-Digital dannelse: https://pfj.slotshaven.it/2-digital-dannelse/
+Digital dannelse: https://pfj.slotshaven.it/2-digital-dannelse/  
+Film: Mit liv på nettet, episode 2, Er mit liv til salg?  
+Film: The Social Dilemma eller lignende  
+
+
 
 [Tilbage til oversigt](0-studieplan-hhx.md)
  
