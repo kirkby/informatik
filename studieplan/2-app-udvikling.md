@@ -116,7 +116,7 @@ På dansk hedder det brugervenlighed. Lærebogen opstiller fem regler:
     Learnable (til at lære)  
     Satisfiable (tilfredsstillende)  
 
-
+#### 2.3.4 Jacob Nielsen
 https://informatikbeux.systime.dk/?id=1080
 
 Jacob Nielsens 10 Usability Heuristics (principper for usability):
@@ -134,7 +134,7 @@ Jacob Nielsens 10 Usability Heuristics (principper for usability):
 Jacob Nielsen, kilden: https://www.nngroup.com/articles/ten-usability-heuristics/  
 Lærebog Ux Design: https://uxdesign.systime.dk/?id=140
 
-#### 2.3.4 Andre designregler
+#### 2.3.5 Andre tommelfingerregler for designere
     Recognition over recall
     Don't Make Me Think
     First Things First 
@@ -144,7 +144,6 @@ Overdriv ikke brugen af disse regler - man kan fx ikke designe udelukkende ved b
 
 #### Referencer
 Hvad man ikke skal gøre: https://userinyerface.com
-
 
 ### Kommunikation og målgruppper
 Kommunikationsmodeller er vel sagtens ikke en del af pensum for informatik. 

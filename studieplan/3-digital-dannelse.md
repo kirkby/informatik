@@ -292,6 +292,12 @@ At beskytte sig mod onlinesvindel kræver en kombination af teknologiske værkt�
     9. Hvad bør du gøre, hvis du har mistanke om, at din adgangskode er blevet kompromitteret?
     10. Diskutér, hvordan uddannelse om cybersikkerhed kan mindske risikoen for onlinesvindel.
 
+**Øvelse**
+Gå til https://haveibeenpwned.com/ og check om din adresse kompromiteret. 
+
+
+
+
 **Tre takeaways**
     - Brug stærke og unikke adgangskoder, og undgå genbrug.
     - Aktiver 2FA på alle tjenester, der tilbyder det.
