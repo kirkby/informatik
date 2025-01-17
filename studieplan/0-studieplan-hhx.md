@@ -53,6 +53,7 @@ Lektionsplan: [Introduktion til Informatik](1-informatik.md)
         - Kommunikation (ikke pensum): Laswell, AIDA, Minerva, Conzoom etc
     Udvikling
         - Den iterative udviklingsmodel
+        - Kravspecifikation
         - Prototyper: low-fi og hi-fi, papirskitser
         - Testmetoder
     Wordpress  
@@ -62,25 +63,45 @@ Omtrent 16 lektioner.
 Lektionsplan: [App-udvikling](2-app-udvikling.md)
 
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
-#### GDPR
-- personhenførbare data
-- følsomme data
-
-Cookies
-Authentication vs. authorization
-Sikkerhed på internettet
-Beskyttelse af digital identitet
-Kryptering
-Netværksikkerhed
+### Forretningsmodeller
+- reklame vs. data vs. software vs. hardware
+- Big Tech forretningsmodeller
+- You are the product
+### GDPR
+- Personoplysninger vs. Følsomme personoplysninger
+- GDPRs 7 generelle principper
+- Samtykke
+- Databehandleraftaler
+- Europa vs. USA
+### Cookies
+- Teknik
+- Funktion
+- Statistik
+- Marketing
+- Browsere, blockere og cookies
+### Beskyttelse af digital identitet
+- Adgangskoder 
+- Angrebstyper: Spoofing
+### Sikkerhed på internettet
+- Authentication vs. authorization
+- Kryptering
+- Netværksikkerhed
 
 Omtrent 10 lektioner.  
 Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
 
 ## Forløb 4: Data, Big Data og kunstig intelligens
-    Databaser
-    Big Data
-    TODO AI, prompting
-    Innovation
+### Databaser
+- CRUD
+- SQL
+
+### Big Data
+- Hører det til her eller i 3?
+AI (prompting)
+### Innovation
+- inkrementiel vs. radikal
+- 4P: produkt-proces-position-paradigme
+
 
 Omtrent 10 lektioner.  
 Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)
@@ -103,13 +124,17 @@ Omtrent 8 lektioner.
 Lektionsplan: [Opsamling](6-opsamling.md)
 
 ## Lærebøger
-**Informatik**, systime,  https://informatik.systime.dk  (primær)  
-**UX Design**, systime, https://uxdesign.systime.dk  
-**Erhvervsinformatik til EUD/EUX**, systime,  https://erhvervsinformatik.systime.dk  
-**Informatik for alle**, systime, https://informatikforalle.ibog.forlagetcolumbus.dk
-**Informatik B til EUX merkantil**, systime, https://informatikbeux.systime.dk
+**Informatik**, systime,  https://informatik.systime.dk 
 
-**Informatik C**, Praksis, https://informatik-c-2.praxis.dk
+**Erhvervsinformatik til EUD/EUX**, systime,  https://erhvervsinformatik.systime.dk  
+
+**Informatik for alle**, systime, https://informatikforalle.ibog.forlagetcolumbus.dk  
+
+**Informatik B til EUX merkantil**, systime, https://informatikbeux.systime.dk  
+
+**Informatik C**, Praksis, https://informatik-c-2.praxis.dk  
+
+**UX Design**, systime, https://uxdesign.systime.dk  
 
 ## Andre materialer
 PFJ, https://pfj.slotshaven.it/forloeb-2/

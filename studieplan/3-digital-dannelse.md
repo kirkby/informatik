@@ -3,6 +3,13 @@
 _Faglige mål for It-sikkerhed, netværk og arkitektur_  
 >Eleverne skal kunne redegøre for beskyttelse af egen digital identitet og egne data på internettet samt redegøre for tekniske og menneskelige aspekter af it-sikkerhed
 
+## 3.0 Forretningsmodeller
+- Data
+- Reklamer
+- Software (licenser)
+- Hardware
+
+
 ## 3.1 GDPR
 **Introduktion til emnet**
 
