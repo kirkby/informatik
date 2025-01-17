@@ -63,53 +63,53 @@ Omtrent 16 lektioner.
 Lektionsplan: [App-udvikling](2-app-udvikling.md)
 
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
-### Forretningsmodeller
-- reklame vs. data vs. software vs. hardware
-- Big Tech forretningsmodeller
-- You are the product
-### GDPR
-- Personoplysninger vs. Følsomme personoplysninger
-- GDPRs 7 generelle principper
-- Samtykke
-- Databehandleraftaler
-- Europa vs. USA
-### Cookies
-- Teknik
-- Funktion
-- Statistik
-- Marketing
-- Browsere, blockere og cookies
-### Beskyttelse af digital identitet
-- Adgangskoder 
-- Angrebstyper: Spoofing
-### Sikkerhed på internettet
-- Authentication vs. authorization
-- Kryptering
-- Netværksikkerhed
+    Forretningsmodeller
+        - Reklame vs. data vs. software vs. hardware
+        - Big Tech forretningsmodeller
+        - You are the product
+    GDPR
+        - Personoplysninger: almindelige vs. følsomme
+        - GDPRs 7 generelle principper
+        - Samtykke
+        - Databehandleraftaler
+        - Europa vs. USA
+    Cookies
+        - Teknik
+        - Funktion
+        - Statistik
+        - Marketing
+        - Browsere, blockere og cookies
+    Beskyttelse af digital identitet
+        - Adgangskoder 
+        - Angrebstyper
+        - Have I Been Pwned?
+    Sikkerhed på internettet
+        - Authentication vs. authorization
+        - Kryptering
+        - Netværksikkerhed
 
 Omtrent 10 lektioner.  
 Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
 
 ## Forløb 4: Data, Big Data og kunstig intelligens
-### Databaser
-- CRUD
-- SQL
-
-### Big Data
-- Hører det til her eller i 3?
-AI (prompting)
-### Innovation
-- inkrementiel vs. radikal
-- 4P: produkt-proces-position-paradigme
-
+	Databaser
+        - CRUD
+        - SQL
+	Big Data og AI
+        - Prompting
+        - LLM
+	Innovation
+        - inkrementiel vs. radikal
+        - 4P: produkt-proces-position-paradigme
 
 Omtrent 10 lektioner.  
 Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)
 
-## Forløb 5: Appudvikling: Pizza-app
-    Design af pizzaapp i AppLab
-    Udvikling af pizzaapp i AppLab
-    Evaluering og test af pizzaapp i AppLab
+## Forløb 5: Appudviklingsforløb i AppLab
+    Pizza-app
+        - Design
+        - Udvikling
+        - Evaluering og test
 
 Omtrent 16 lektioner.  
 Lektionsplan: [Pizza-app](5-pizza-app.md)
@@ -124,17 +124,27 @@ Omtrent 8 lektioner.
 Lektionsplan: [Opsamling](6-opsamling.md)
 
 ## Lærebøger
-**Informatik**, systime,  https://informatik.systime.dk 
+Der anvendes tekster og eksempler fra følgende bøger og e-bøger:
 
-**Erhvervsinformatik til EUD/EUX**, systime,  https://erhvervsinformatik.systime.dk  
+Elisabeth Husum (red): *Informatik*, Systime, 2025  
+https://informatik.systime.dk 
 
-**Informatik for alle**, systime, https://informatikforalle.ibog.forlagetcolumbus.dk  
+Lasse Tage Olsen o.a: *Erhvervsinformatik til EUD/EUX*, Gyldendal, 2025  
+https://erhvervsinformatik.systime.dk  
 
-**Informatik B til EUX merkantil**, systime, https://informatikbeux.systime.dk  
+Claus Witfelt: *Informatik for alle*, Columbus, 2025  
+https://informatikforalle.ibog.forlagetcolumbus.dk  
 
-**Informatik C**, Praksis, https://informatik-c-2.praxis.dk  
+Elisabeth Husum (red.): *Informatik B til EUX merkantil*, Gyldendal, 2025  
+https://informatikbeux.systime.dk  
 
-**UX Design**, systime, https://uxdesign.systime.dk  
+Ken Mathiasen: *Informatik C*, Praksis, 2.udgave  
+https://informatik-c-2.praxis.dk  
+
+Mikkel Michelsen: *UX Design*, Systime, 2025  
+https://uxdesign.systime.dk  
 
 ## Andre materialer
-PFJ, https://pfj.slotshaven.it/forloeb-2/
+[PFJ](https://pfj.slotshaven.it/forloeb-2/)  
+[It-lærerforeningens materialewiki](https://informationsteknologi.wikidot.com)  
+[AppLab](https://studio.code.org/home)  
