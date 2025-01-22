@@ -9,6 +9,15 @@ _Faglige mål for It-sikkerhed, netværk og arkitektur_
 - Software (licenser)
 - Hardware
 
+| Company      | Primary Business Model         | Secondary Business Model       | Tertiary Business Model             |
+|--------------|--------------------------------|--------------------------------|-------------------------------------|
+| Facebook     | Advertising: 98%               | Other Revenue: 2%              | -                                   |
+| Google       | Advertising: 81%               | Cloud Services: 9%             | Other Bets and Services: 10%        |
+| Microsoft    | Intelligent Cloud: 37%         | Productivity & Business: 32%   | More Personal Computing: 31%        |
+| Amazon       | Online Stores: 50%             | AWS: 13%                       | Third-Party Seller Services: 19%    |
+| Apple        | iPhone Sales: 52%              | Services: 24%                  | Wearables/Home/Accessories: 10%     |
+
+Kilde: [Visual Capitalist](https://www.visualcapitalist.com/big-tech-companies-billions)
 
 ## 3.1 GDPR
 **Introduktion til emnet**
@@ -136,7 +145,6 @@ Gentag med Facebook eller Instagram.
 **Øvelse**
 -  Browse rundt på greenline og kig på nogle produkter
 - gå ind på tv2 og check annoncerne der
-- 
 - Slet alle dine cookies
 - Genopfrisk siden (tryk F5 eller Cmd+R eller tryk på cirkelpilen)
 - Hvad skete der? 
@@ -146,22 +154,12 @@ Gentag med Facebook eller Instagram.
 Gentag med Facebook eller Instagram.
 
 **Artikler om emnet**
-
 - [Sådan fungerer cookies - og sådan begrænser du dem](https://taenk.dk/forbrugerliv/elektronik-og-digitale-tjenester/cookies-saadan-fungerer-de)
 - [Hvad er cookies – og kan man undgå dem?](https://samvirke.dk/artikler/hvad-er-cookies-og-kan-man-undgaa-dem)
 - [Cookies og GDPR - Datatilsynet](https://www.datatilsynet.dk/hvad-siger-reglerne/vejledning/gdpr-univers-for-smaa-virksomheder/cookies-og-gdpr)
 
-**Videoer om emnet**
-
-- [Hvad er cookies?](https://www.youtube.com/watch?v=I01XMRo2ESg)
-- [Cookies Explained](https://www.youtube.com/watch?v=GDPR_czGQUM)
-- [Internet Cookies: How Do They Work?](https://www.youtube.com/watch?v=I7Foam6oKPI)
-
 **Infografiske illustrationer**
-
-- [Infografik: Hvordan cookies fungerer i et HTTP-request](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HTTP_cookie_exchange.svg/1200px-HTTP_cookie_exchange.svg.png)
 - [Infografik: Hvordan cookies fungerer i et request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies/cookie-basic-example.png)
-- [Infografik: Nur wenige verweigern Cookies das Ausspähen](https://de.statista.com/infografik/31512/befragte-die-mit-cookie-einstellungen-auf-websites-wie-folgt-umgehen/)
 
 **Opgave med 10 spørgsmål**
 
