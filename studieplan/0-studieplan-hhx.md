@@ -1,109 +1,108 @@
 # Studieplan for Informatik C (HHX)
 
-Studieplan for Informatik C for 2024-25.
+## Indhold
+Dette dokument indeholder en beskrivelse i punktform af skoleårets 5 primære undervisningsforløb.
+Dertil kommer SO1-forløbet og et opsamlingsforløb før eksamen.
+
+Så følger en oversigt over anvendte lærebøger og primære online-ressourcer.
+
+Til sidst følger et kort resume af de vigtigste punkter i læreplanen for hurtig reference.
 
 ## Forløb 1: Introduktion til informatik
-    Faget Informatik
-        - læreplan og faglige mål
-        - kernestof og undervisningsform
-        - logbog
-        - prøveform
+    Hvad er informatik?
+        - Læreplan og faglige mål
+        - Kernestof og undervisningsform
+        - (den meget vigtige) Logbog
+        - Prøveform
     Hvad er en computer?  
-        - cpu (processor)
-        - hukommelse  (RAM)
-        - input-enheder
-        - output-enheder  
-    Enheder og Det binære talsystem  
-        - talssystemer og grundtal  
-        - bit og byte  
-        - tegntabeller og encoding  
-        - datalogiske enheder: KB, MB, GB, TB osv.  
+        - Processor 
+        - Hukommelse
+        - Input- og output-enheder  
+        - Det binære talsystem
+        - Bits og bytes
+        - Datalogiske enheder
     Hvordan fungerer internettet?
-        - domænenavne  
-        - ip-numre  
-        - dns  
-        - IPv4 og IPv6  
-    Web, html og http  
-        - websider er html (struktur), css (styling) og javascript (kode)
-        - tags: h1, p, ul osv.
-        - Klient-server arkitektur  
-        - protokol: http
-    Min første webside!
-        - code.org eller Khan Academy
-        - websider i VS Code 
-        - "html"-filer i browser
-        - flade tekstfiler vs. binære formater
+        - Client-server
+        - DNS og domæner
+        - IP-numre
+    Hvad er Web?
+        - HTML, CSS og Javascript
+        - HTTP og links
+        - Min første webside!
+    Wordpress
+        - Dit personlige CMS  
+        - Oprettelse og konfiguration
+        - Indlæg, sider, menuer og temaer
 
 Omtrent 8 lektioner.  
-Lektionsplan: [Introduktion til Informatik](1-informatik.md)
 
 ## Forløb 2: App-udvikling
-    Programmering
-        - Variable og datatyper
-        - Gentagelser (løkker, loops)
-        - Betingelser (forgreninger)
-        - Funktioner  
+    Udvikling
+        - Tre-lags-modellen
+        - Den iterative udviklingsmodel
+        - Kravspecifikation
+        - Low-fi og Hi-fi prototyper
+        - Rige billeder
+        - Testmetoder
     Blokprogrammering
         - Applap
         - Min første app!
+    Programmering
+        - Variable og datatyper
+        - Sekvenser
+        - Gentagelser (løkker, loops)
+        - Betingelser (forgreninger)
+        - Funktioner  
     Interaktionsdesign
         - Norman, Gestalt, Usability, Jacob Nielsens 10 principper 
         - First-Things-First, KISS, Recognition over recall, Don't Make Me Think
         - Målgruppe: Maslow, persona 
         - Kommunikation (ikke pensum): Laswell, AIDA, Minerva, Conzoom etc
-    Udvikling
-        - Den iterative udviklingsmodel
-        - Kravspecifikation
-        - Prototyper: low-fi og hi-fi, papirskitser
-        - Testmetoder
-    Wordpress  
-    
 
 Omtrent 16 lektioner.  
-Lektionsplan: [App-udvikling](2-app-udvikling.md)
 
 ## Forløb 3: Digital dannelse, sikkerhed og privatliv
-    Forretningsmodeller
-        - Reklame vs. data vs. software vs. hardware
+    Beskyttelse af digital identitet
         - Big Tech forretningsmodeller
+        - Datasalg og tracking
         - You are the product
     GDPR
-        - Personoplysninger: almindelige vs. følsomme
-        - GDPRs 7 generelle principper
+        - Personoplysninger
+        - Rettigheder 
         - Samtykke
-        - Databehandleraftaler
-        - Europa vs. USA
+        - Europa, USA og databehandleraftaler
     Cookies
-        - Teknik
-        - Funktion
-        - Statistik
-        - Marketing
-        - Browsere, blockere og cookies
-    Beskyttelse af digital identitet
+        - De fire typer: nødvendige, funktionelle, statistiske - og trackere!
+        - Hvad er en tredjepartscookie?
+        - Browserværktøjer  
+        - Adblockere
+    Sikkerhed på internettet
         - Adgangskoder 
         - Angrebstyper
-        - Have I Been Pwned?
-    Sikkerhed på internettet
         - Authentication vs. authorization
         - Kryptering
         - Netværksikkerhed
 
 Omtrent 10 lektioner.  
-Lektionsplan: [Digital dannelse](3-digital-dannelse.md)
 
-## Forløb 4: Data, Big Data og kunstig intelligens
+## SO1: Digitalisering og Markedsanalyse
+Informatik-delen involverer en hjemmeside i WordPress.  
+Afvikles efter vinterferien. 
+[Læs mere på Studieportalen](https://slotshaven-studieportal.dk/studieomraadet-hhx/hhx-2017-2020/progressionsplan/)
+
+
+## Forløb 4: Data og innovation
 	Databaser
         - CRUD
         - SQL
-	Big Data og AI
-        - Prompting
-        - LLM
 	Innovation
         - inkrementiel vs. radikal
         - 4P: produkt-proces-position-paradigme
+	(Eventuelt) Big Data og AI
+        - Prompting
+        - LLM
 
-Omtrent 10 lektioner.  
-Lektionsplan: [Data, Big Data og kunstig intelligens](4-data.md)
+Omtrent 4 lektioner.  
 
 ## Forløb 5: Appudviklingsforløb i AppLab
     Pizza-app
@@ -121,7 +120,6 @@ Lektionsplan: [Pizza-app](5-pizza-app.md)
     Øvelser, quizzes og test
 
 Omtrent 8 lektioner.  
-Lektionsplan: [Opsamling](6-opsamling.md)
 
 ## Lærebøger
 Der anvendes tekster og eksempler fra følgende bøger og e-bøger:
@@ -148,3 +146,37 @@ https://uxdesign.systime.dk
 [PFJ](https://pfj.slotshaven.it/forloeb-2/)  
 [It-lærerforeningens materialewiki](https://informationsteknologi.wikidot.com)  
 [AppLab](https://studio.code.org/home)  
+
+
+## Resume af læreplan
+
+| Faglige mål |
+|-------------|
+|Konstruktion af it-system som løsning til en problemstilling | 
+|It-systemers og menneskelig aktivitets gensidige påvirkning |
+|It-sikkerhed, netværk og arkitektur |
+|Repræsentation og manipulation af data| 
+|Programmering |
+|Interaktionsdesign |
+|Innovation |
+
+#### Didaktik
+> Undervisningen organiseres omkring flere temaer og projekter. Disse vælges, så de tilsammen dækker kernestof og
+supplerende stof, med henblik på at der er en klar progression i arbejdet med faglige mål (..) 
+
+> Der veksles mellem overbliksskabende forløb, eksperimenter, øvelser og projekter (..) 
+
+#### Arbejdsformer
+> I undervisningen er projektarbejdsformen fremtrædende (..) 
+
+> Den enkelte elev dokumenterer løbende sin faglige udvikling i en logbog. Dokumentationen i logbogen kan have form af f.eks.
+it-systemer, noter, synopser, journaler, programbeskrivelser og rapporter (..) 
+
+#### Løbende evaluering
+> Som beskrevet i afsnittet om arbejdsformer skal eleven dokumentere sin faglige udvikling i sin logbog.
+Denne logbog anvendes løbende i forbindelse med elevens selvevaluering og evalueringssamtaler med
+læreren. Ved afslutning af et undervisningsforløb evalueres elevernes præstationer, blandt andet via
+logbogen, og det er en god ide at evalueringen giver en individuel vurdering af niveau og udvikling i
+det faglige standpunkt i forhold til den forventede udvikling og de faglige mål (..) 
+
+
