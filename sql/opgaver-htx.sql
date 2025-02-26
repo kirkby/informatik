@@ -23,8 +23,7 @@ Skriv din forespørgsel herunder:
 ******************************************************/
 
 /******************************************************
-Opgave 4: Slet alle ordrer fra en bestemt kunde, hvis kunden 
-ikke har nogen ordrer.
+Opgave 4: Slet alle kunder som ikke har nogen ordrer.
 Tjek først kundens ID ved at køre en SELECT-forespørgsel.
 Tjek derefter, om kunden har ordrer i Ordre-tabellen.
 Efter at have slettet kunden, skal du køre en SELECT-forespørgsel.
