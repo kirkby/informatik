@@ -1,5 +1,5 @@
 # Bogmærker for Informatik C
-Oldschool links-samling.
+Oldschool link-samling.
 
 ## AI 
 [videnskab.dk: Sådan bruger du ChatGPT uden at blive dummere](https://videnskab.dk/teknologi/saadan-bruger-du-chatgpt-uden-at-blive-dummere)
@@ -16,6 +16,11 @@ Statisk database, kun SELECT.
 
 ## Sikkerhed
 Er din adgangskode afsløret? [Have I Been Pwned?](https://haveibeenpwned.com)
+
+Kan du gennemskue phishing? [Can you spot when you’re being phished?](https://phishingquiz.withgoogle.com)
+
+Gode råd til bedre sikkerhed [Sikker Digital](https://www.sikkerdigital.dk/borger)
+
 
 ## App-udvikling
 [Iterativ udvikling (It-­fagets metoder, AU)](https://informationsteknologi.wdfiles.com/local--files/fagets-metoder/it-fagets%20metoder%20v0.3.pdf)
