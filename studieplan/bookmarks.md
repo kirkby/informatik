@@ -6,6 +6,11 @@ Oldschool link-samling.
 
 [Digitaliseringsstyrelsen: Vejledning om AI-færdigheder](https://digst.dk/sikkerhed/digitale-tilsyn/ai-forordningen/reglerne-i-ai-forordningen/vejledning-om-ai-faerdigheder)
 
+## Applab
+[Youtube playlist: Jacob Maarbjergs introduktion til Applab](https://www.youtube.com/playlist?list=PLD5gsXPEdTcWvXyz21blLSrQz4c_3CuFA)
+
+[Youtube playlist: Pizza-app del 1-3](https://youtube.com/playlist?list=PLDXKPfrQntrlzo5pXG-8t2MxcseVqyFjw)
+
 ## Data
 
 Prøv en database.  
