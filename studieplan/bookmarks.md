@@ -39,6 +39,8 @@ Gode råd til bedre sikkerhed [Sikker Digital](https://www.sikkerdigital.dk/borg
 ## Inspiration
 [Michala Dahl Mensing website om Informatik](https://mdmensing.dk)
 
+[Vestfyn EDU: Meget mere informatik](https://sites.google.com/vestfynedu.dk/informatikdbg/)
+
 ## Bøger
 [*Informatik*](https://informatik.systime.dk), Elisabeth Husum (red), Systime, 2025
 
