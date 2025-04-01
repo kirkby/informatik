@@ -11,6 +11,11 @@ Oldschool link-samling.
 
 [Youtube playlist: Pizza-app del 1-3](https://youtube.com/playlist?list=PLDXKPfrQntrlzo5pXG-8t2MxcseVqyFjw)
 
+[Video 1: navigation](https://www.youtube.com/watch?v=wIf8kbZ3T6c) | 
+[Video 2: bestillingsside](https://www.youtube.com/watch?v=YZ984FozPgM) |
+[Video 3: database 1](https://www.youtube.com/watch?v=Kxvh44IngiE) |
+[Video 4 (Erik Lund): database 2](https://www.youtube.com/watch?v=CSGiIMT5j3s)
+
 ## Data
 
 Prøv en database.  
@@ -26,6 +31,9 @@ Kan du gennemskue phishing? [Can you spot when you’re being phished?](https://
 
 Gode råd til bedre sikkerhed [Sikker Digital](https://www.sikkerdigital.dk/borger)
 
+## Spil
+Skab og anvend spil i undervisningen.
+[Educaplay](https://www.educaplay.com/)
 
 ## App-udvikling
 [Iterativ udvikling (It-­fagets metoder, AU)](https://informationsteknologi.wdfiles.com/local--files/fagets-metoder/it-fagets%20metoder%20v0.3.pdf)
@@ -36,10 +44,23 @@ Gode råd til bedre sikkerhed [Sikker Digital](https://www.sikkerdigital.dk/borg
 
 [It-lærerforeningens materialewiki](https://informationsteknologi.wikidot.com/)
 
+[Grasp IT - Computational Thinking, Informatik & Uddannelse](https://graspit.dk/dialog-og-inspiration/)
+
+[Praxis Online Forlag - Læring i praksis](https://online.praxis.dk)  
+
+[Skabt af kunstig intelligens](https://www.skabtafenkunstigintelligens.dk)
+
 ## Inspiration
 [Michala Dahl Mensing website om Informatik](https://mdmensing.dk)
 
 [Vestfyn EDU: Meget mere informatik](https://sites.google.com/vestfynedu.dk/informatikdbg/)
+
+[Bliv klogere](https://www.bliv-klogere.dk/hhx/)
+
+[IT Vest, samarbejdende universiteter](https://www.it-vest.dk/aktiviteter/informatik-i-alle-uddannelser/informatik-baggrundsinformation-og-ressourcer)
+
+
+
 
 ## Bøger
 [*Informatik*](https://informatik.systime.dk), Elisabeth Husum (red), Systime, 2025
