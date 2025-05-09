@@ -59,8 +59,16 @@ Skab og anvend spil i undervisningen.
 
 [IT Vest, samarbejdende universiteter](https://www.it-vest.dk/aktiviteter/informatik-i-alle-uddannelser/informatik-baggrundsinformation-og-ressourcer)
 
+## Diagrammer og flowcharts
+
+Der er flowcharts til mange forskellige formål:  
+[Figma: 17 types of flowcharts](https://www.figma.com/resource-library/types-of-flow-charts/)
 
 
+## Javascript
+chatGPT chatbot som giver øvelser i javascript
+
+https://chatgpt.com/g/g-681ba818b48881918cfdf1448761cdb5-kodeover-informatik-c-javascript
 
 ## Bøger
 [*Informatik*](https://informatik.systime.dk), Elisabeth Husum (red), Systime, 2025
