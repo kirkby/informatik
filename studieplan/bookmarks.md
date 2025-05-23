@@ -1,6 +1,10 @@
 # Bogmærker for Informatik C
 Oldschool link-samling.
 
+## EMU (Styrelsen for undervisning og kvalitet)
+Om faget Informatik
+https://www.emu.dk/htx/informatik?b=t432
+
 ## AI 
 [videnskab.dk: Sådan bruger du ChatGPT uden at blive dummere](https://videnskab.dk/teknologi/saadan-bruger-du-chatgpt-uden-at-blive-dummere)
 
@@ -18,11 +22,14 @@ Oldschool link-samling.
 
 ## Data
 
-Prøv en database.  
-[Db Fiddle](https://www.db-fiddle.com/)
+En "browser" til at kigge på sql lite databaser.  
+[sql lite browser](https://sqlitebrowser.org/dl/)
 
-Statisk database, kun SELECT.
-[W3Schools SQL](https://www.w3schools.com/sql/trysql.asp)
+En eksempel-database med musik fra grasp-it. Kan anvendes med sql lite browser.  
+[Musik.db](https://graspit.dk/wp-content/uploads/2021/11/Modellering-og-Data.zip)
+
+Prøv en database (primitivt)  
+[Db Fiddle](https://www.db-fiddle.com/)
 
 ## Sikkerhed
 Er din adgangskode afsløret? [Have I Been Pwned?](https://haveibeenpwned.com)
@@ -37,6 +44,7 @@ Skab og anvend spil i undervisningen.
 
 ## App-udvikling
 [Iterativ udvikling (It-­fagets metoder, AU)](https://informationsteknologi.wdfiles.com/local--files/fagets-metoder/it-fagets%20metoder%20v0.3.pdf)
+
 ## Materialer og artikler
 [Informatik ved CCT](https://cloud.cct.au.dk/wiki/index.php%3Ftitle=Forl%C3%B8bsbeskrivelser-Informatik.html), Center for Computational Thinking, Aarhus Universitet.
 
@@ -50,14 +58,20 @@ Skab og anvend spil i undervisningen.
 
 [Skabt af kunstig intelligens](https://www.skabtafenkunstigintelligens.dk)
 
-## Inspiration
+## Sites om informatik
+Præsentationer og andet om Informatik  
 [Michala Dahl Mensing website om Informatik](https://mdmensing.dk)
 
 [Vestfyn EDU: Meget mere informatik](https://sites.google.com/vestfynedu.dk/informatikdbg/)
 
-[Bliv klogere](https://www.bliv-klogere.dk/hhx/)
+[Informatik C på Hillerød Handelsgymnasium](https://sites.google.com/knorddoc.dk/infc2020/)
 
+[Grasp IT](https://graspit.dk/category/informatik/)
+
+## Uddannelse 
 [IT Vest, samarbejdende universiteter](https://www.it-vest.dk/aktiviteter/informatik-i-alle-uddannelser/informatik-baggrundsinformation-og-ressourcer)
+
+
 
 ## Diagrammer og flowcharts
 
@@ -82,6 +96,18 @@ https://chatgpt.com/g/g-681ba818b48881918cfdf1448761cdb5-kodeover-informatik-c-j
 [*Informatik C*](https://informatik-c-2.praxis.dk), Ken Mathiasen, Praksis, 2.udgave
 
 [ *UX Design*](https://uxdesign.systime.dk), Mikkel Michelsen, Systime, 2025
+
+## Videoer:
+
+[Privatliv til salg (MitCFU)](https://mitcfu.dk/Search?s=titel%3A%20Privatliv%20til%20salg&mode=-1)
+
+[Bill Gates versus Steve Jobs (MitCFU)](https://mitcfu.dk/MaterialeInfo/?faust=TV0000036964&s=43507995&n=1&o=hits)
+
+## Sites om informatik
+(Informatik C på Hillerød Handelsgymnasium)[https://sites.google.com/knorddoc.dk/infc2020/]
+
+(Vestfyn EDU)[https://sites.google.com/vestfynedu.dk/informatikdbg/]
+
 
 
 ## Quiz etc.
